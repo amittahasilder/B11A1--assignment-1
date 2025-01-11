@@ -32,10 +32,11 @@ padding: 24px 160px 24px 160px;
     color: #000000;
 
 }
-.nav-title:hover{
-    color: aliceblue;
-    background-color: black;
+.nav-title:hover {
+    color: rgb(1, 151, 18);
     cursor: pointer;
+    transition: 2s;
+    
 }
 
 
